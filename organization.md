@@ -12,7 +12,7 @@ title: Organization
 
 | Name          | Company       | Country |
 | ------------- |:-------------:|---------|
-| Sergei Bikovski      | ITMO University | Russia |
+| Sergei Bikovskii     | ITMO University | Russia |
 | Elena Boldareva      | ITMO University | Russia |
 | Vladimir Nikolaev    | ITMO University | Russia | 
 | Ivan Loginov         | ITMO University | Russia | 
