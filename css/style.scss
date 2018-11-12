@@ -9,8 +9,34 @@
 @import 'anims';
 @import 'monokai';
 
+
+@font-face {
+    font-family: 'Schlange Sans Light';
+    src: url(http://orir.ifmo.ru/fonts/als_schlange_sans/light/font.eot);
+    src: url(http://orir.ifmo.ru/fonts/als_schlange_sans/light/font.eot?#iefix) format('embedded-opentype'), url(http://orir.ifmo.ru/fonts/als_schlange_sans/light/font.svg#als_schlange_sansregular) format('svg'), url(http://orir.ifmo.ru/fonts/als_schlange_sans/light/font.otf) format('opentype'), url(http://orir.ifmo.ru/fonts/als_schlange_sans/light/font.woff) format('woff'), url(http://orir.ifmo.ru/fonts/als_schlange_sans/light/font.ttf) format('truetype');
+    font-weight: 300;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Schlange Sans';
+    src: url(http://orir.ifmo.ru/fonts/als_schlange_sans/regular/font.eot);
+    src: url(http://orir.ifmo.ru/fonts/als_schlange_sans/regular/font.eot?#iefix) format('embedded-opentype'), url(http://orir.ifmo.ru/fonts/als_schlange_sans/regular/font.svg#als_schlange_sansregular) format('svg'), url(http://orir.ifmo.ru/fonts/als_schlange_sans/regular/font.otf) format('opentype'), url(http://orir.ifmo.ru/fonts/als_schlange_sans/regular/font.woff) format('woff'), url(http://orir.ifmo.ru/fonts/als_schlange_sans/regular/font.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Schlange Sans Bold';
+    src: url(http://orir.ifmo.ru/fonts/als_schlange_sans/bold/font.eot);
+    src: url(http://orir.ifmo.ru/fonts/als_schlange_sans/bold/font.eot?#iefix) format('embedded-opentype'), url(http://orir.ifmo.ru/fonts/als_schlange_sans/bold/font.svg#als_schlange_sansregular) format('svg'), url(http://orir.ifmo.ru/fonts/als_schlange_sans/bold/font.otf) format('opentype'), url(http://orir.ifmo.ru/fonts/als_schlange_sans/bold/font.woff) format('woff'), url(http://orir.ifmo.ru/fonts/als_schlange_sans/bold/font.ttf) format('truetype');
+    font-weight: 600;
+    font-style: normal
+}
+
 html, body{
 	background-color: #eee;
+	font-family: "Schlange Sans", "Open Sans", sans-serif;
 }
 body{
 	text-align: left;
@@ -26,12 +52,46 @@ body{
 	margin: 0 auto;
 }
 a{
-	transition: .2s ease-in all;
+	//transition: .2s ease-in all;
 }
 .site-title{
 	margin: 0;
-	font-size: 4em;
-	text-align: center;
+	margin-bottom: -10px;
+	
+	font-size: 3.5em;
+	text-align: left;
+}
+
+
+.site-title-second-line h1{
+	margin: 0;
+	margin-top:-3px;
+	font-size: 1em;
+	text-align: left;
+	margin-left:10px;
+	left: 20px; 
+	position: relative;
+}
+
+.site-title-div{
+	width: 1024px;
+	height: 160px; 
+}
+
+.logo-title-div{
+	width: 100%;
+	background: white;
+}
+
+.site-logo img{
+	width: 100%;
+}
+
+.site-logo{
+	float: left;
+	width: 130px;
+	margin-left:10%;
+	margin-right:10px;
 }
 
 nav ul {
@@ -123,7 +183,7 @@ nav ul {
 
 		&:hover{
 			background-color: darken($nav-back-color, 10%);
-			border-bottom: 4px solid #1AC9DB;
+			border-bottom: 4px solid #f76b52;
 		}
 	}
 }
@@ -131,12 +191,21 @@ nav ul {
 .content{
 	margin-top: 1em;
 
+	strong{
+		font-family: "Schlange Sans Bold", "Open Sans", sans-serif;
+	}
+
+	h2{
+		font-family: "Schlange Sans Bold", "Open Sans", sans-serif;
+		border-bottom: 2px solid #f76b52;
+	}
+
 	h3{
 		margin: 0.3em 0;
 		font-style: normal;
 	}
 	a{
-		color: #08c;
+		color: #f76b52;
 	}
 	.button{
 		color: #fff;
@@ -232,7 +301,7 @@ a {
 	-webkit-box-shadow: 0px 1px 2px #B1B1B1;
 	box-shadow: 0px 1px 2px #B1B1B1;
 	border-radius: 3px;
-	transition: all 0.2s;
+	//transition: all 0.2s;
 	border: 1px solid transparent;
 
 	.description{
@@ -459,7 +528,7 @@ article{
 	}
 	.unit.posts, .posts {
     	h2{
-    		font-size: 1.2em;
+			font-size: 1.2em;
     	}
 	}
 	.single-post-excerpt, .post {
