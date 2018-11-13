@@ -4,7 +4,7 @@ title: Call For Papers
 ---
 # Call For Papers
 
-The 10th Major Readings is organized as an International Conference on Software Engineering and Computer Systems (MR-ICSECS-2018). It is an international event dedicated to discussing research results and directions in the areas related to Software and Hardware Engeneering, Networks, Cyper-Physical Systems, Computer Security and Multimedia technologies.
+The Majorov International Conference on Software Engineering and Computer systems (**MISECS 2018**) is an international event dedicated to discussing research results and directions in the areas related to Software and Hardware Engeneering, Networks, Cyper-Physical Systems, Computer Security and Multimedia technologies. The conference is held for the 10th time and for the first time as an international one. 
 
 The Conference gives a possibility to under- and post-graduate students to exchange their experience and results in perspective areas of research and development of Computer Systems.
 

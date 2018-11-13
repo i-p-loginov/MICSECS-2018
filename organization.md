@@ -13,10 +13,11 @@ title: Organization
 | Name          | Company       | Country |
 | ------------- |:-------------:|---------|
 | Sergei Bikovskii     | ITMO University | Russia |
+| Andrey Dergachev     | ITMO University | Russia |
 | Elena Boldareva      | ITMO University | Russia |
-| Vladimir Nikolaev    | ITMO University | Russia | 
-| Ivan Loginov         | ITMO University | Russia | 
 | Ilya Isaev           | ITMO University | Russia | 
+| Ivan Loginov         | ITMO University | Russia |
+| Vladimir Nikolaev    | ITMO University | Russia | 
 | Vladislav Shmatkov   | ITMO University | Russia | 
 
 ## Program comitee
@@ -29,10 +30,10 @@ title: Organization
 | Dmitri Moltchanov     | Tampere University of Technology | Finland |
 | Yevgeni Koucheryavy   | Tampere University of Technology | Finland | 
 | Taufik Aliev          | ITMO University | Russia | 
-| Andrei Shсheglov      | ITMO University | Russia | 
-| Anatolii Bogatyrev    | ITMO University | Russia |
+| Andrey Sheglov        | ITMO University | Russia | 
+| Vladimir Bogatyrev    | ITMO University | Russia |
 | Aleksander Tropchenko | ITMO University | Russia | 
 | Igor Bessmertnyi      | ITMO University | Russia | 
-| Alexei Platunov       | ITMO University | Russia | 
+| Alexey Platunov       | ITMO University | Russia | 
 
 
