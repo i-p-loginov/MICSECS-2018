@@ -30,10 +30,12 @@ title: Organization
 | Dmitri Moltchanov     | Tampere University of Technology | Finland |
 | Yevgeni Koucheryavy   | Tampere University of Technology | Finland | 
 | Taufik Aliev          | ITMO University | Russia | 
+| Alexey Platunov       | ITMO University | Russia | 
+| Igor Bessmertnyi      | ITMO University | Russia |
 | Andrey Sheglov        | ITMO University | Russia | 
 | Vladimir Bogatyrev    | ITMO University | Russia |
 | Aleksander Tropchenko | ITMO University | Russia | 
-| Igor Bessmertnyi      | ITMO University | Russia | 
-| Alexey Platunov       | ITMO University | Russia | 
+ 
+
 
 

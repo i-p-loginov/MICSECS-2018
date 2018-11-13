@@ -4,6 +4,6 @@ title: Contacts
 ---
 # Contacts
 
-**Address**: 49 Kronverksky Pr., St. Petersburg, 197101, Russia
+**Address**: ITMO University, 49 Kronverksky Pr., St. Petersburg, 197101, Russia
 
-**E-mail**: mr@corp.ifmo.ru 
+**E-mail**: <mailto:mr@corp.ifmo.ru>
