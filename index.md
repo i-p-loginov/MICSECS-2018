@@ -9,7 +9,7 @@ title: Home
 </div>
 
 <br>
-[ITMO University](http://en.ifmo.ru/en/){:target="_blank"} kindly invites international researches to the 10th Majorov International Conference on Software Engineering and Computer Systems (**MISECS 2018**). 
+[ITMO University](http://en.ifmo.ru/en/){:target="_blank"} kindly invites international researches to the 10th Majorov International Conference on Software Engineering and Computer Systems (**MICSECS 2018**). 
 
 ## About
 
