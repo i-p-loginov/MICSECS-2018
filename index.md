@@ -22,7 +22,7 @@ The conference includes:
 * Poster presentation with Demo
 * Block Chain Hackathon
 
-Please refer to [Call For Papers](/call.html) to learn more about the research tracks.
+Please refer to [Call For Papers]({{ site.base_url }}/call.html) to learn more about the research tracks.
 
 Advantages for the participants:
 
