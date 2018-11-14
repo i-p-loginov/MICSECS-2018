@@ -73,7 +73,7 @@ All authors will be required to pre-submit abstracts of their papers. Both paper
 
 All deadlines are for the Moscow time zone, 23:59.
 
-* **Abstract submission**: 30 November 2018
+* **Abstract submission**: 2 December 2018
 * **Author notification**: 10 December 2018
 * **Paper submission**: to be determined
 
