@@ -67,7 +67,7 @@ The best poster presentation will get an award!
 
 ## Submission
 
-All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via EasyChair.
+All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via [EasyChair](https://easychair.org/conferences/?conf=micsecs2018){:target="_blank"}.
 
 ## Important dates
 
