@@ -8,6 +8,8 @@ title: Organization
 
 **Program Chair**: Dmitrii Muromtsev, ITMO University, Russia
 
+**Proceeding Сhair**: Olga Parkhimovich, ITMO University, Russia
+
 ## Local organization team
 
 | Name          | Company       | Country |
