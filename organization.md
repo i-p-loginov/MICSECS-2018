@@ -16,7 +16,7 @@ title: Organization
 | ------------- |:-------------:|---------|
 | Sergei Bikovskii     | ITMO University | Russia |
 | Andrey Dergachev     | ITMO University | Russia |
-| Elena Boldareva      | ITMO University | Russia |
+| Elena Boldyreva      | ITMO University | Russia |
 | Ilya Isaev           | ITMO University | Russia | 
 | Ivan Loginov         | ITMO University | Russia |
 | Vladimir Nikolaev    | ITMO University | Russia | 
