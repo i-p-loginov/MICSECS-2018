@@ -20,7 +20,7 @@ The conference includes:
 * Key notes presentaion 
 * Oral presentations by participants
 * Poster presentation with Demo
-* Block Chain Hackathon
+* Hackathon
 
 Please refer to [Call For Papers]({{ site.base_url }}/call.html) to learn more about the research tracks.
 
