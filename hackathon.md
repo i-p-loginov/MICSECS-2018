@@ -2,6 +2,6 @@
 layout: page
 title: Hackathon
 ---
-# Block Chain Hackathon
+# Hackathon
 
 To be determined.

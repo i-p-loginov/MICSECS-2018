@@ -69,6 +69,8 @@ The best poster presentation will get an award!
 
 All authors will be required to pre-submit abstracts of their papers. Both papers and abstracts should be submitted via [EasyChair](https://easychair.org/conferences/?conf=micsecs2018){:target="_blank"}.
 
+Please refer to [Registration]({{ site.base_url }}/registration.html) to learn more about the registration procedure and the requirements.
+
 ## Important dates
 
 All deadlines are for the Moscow time zone, 23:59.

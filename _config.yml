@@ -14,9 +14,9 @@ sass:
 #paginate_path: "page:num"
 
 ##The website description (to be used in meta tags)
-description: Put website description for your home page. (about 50 words or more)
+description: The 10th Majorov International Conference on Software Engineering and Computer Systems (MICSECS-2018)
 ##Some frequently used keywords on your website
-keywords: some, relevant, keywords, for, usage, in metatags
+keywords: conf, MICSECS, CS, CPS, computer, software, hardware
 
 ##define this for disqus comment support
 #disqus: forumname
@@ -32,7 +32,3 @@ links:
   email: username@gmail.com
   github: username
 
-##put desired image in img/ directory and set the value accordingly. If not defined, a placeholder image will be used.
-about_image: placeholder.jpg
-##comment this if you want full width posts with no sidebar
-#sidebar: on
