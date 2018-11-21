@@ -4,7 +4,7 @@ title: Registration
 ---
 # Registration
 
-To apply to the conference **Research Tracks** you need to send your thesis of oral presentation via [EasyChair](https://easychair.org/conferences/?conf=micsecs2018){:target="_blank"}. Your thesis should conent:
+To apply to the conference **Research Tracks** you need to send your abstract of oral presentation via [EasyChair](https://easychair.org/conferences/?conf=micsecs2018){:target="_blank"}. Your thesis should conent:
 
 1. Title
 2. Content (the aim of the research, issues, obtained results)
