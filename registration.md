@@ -17,4 +17,4 @@ The requirements of the thesis:
 * Font: Times New Roman, 12pt
 
 
-To apply to the **Poster & Demo session** you should send your poster in PDF (A2 paper format) to the organization team via <mailto:mr@corp.ifmo.ru>. The poster should content the main points of your results and the description of the obtained executable models, devices and etc. during your research.
+To apply to the **Poster & Demo session** you should send your poster in **PDF** (A2 paper format) to the organization team by <mailto:mr@corp.ifmo.ru>. The poster should content the main points of your results and the description of the obtained executable models, devices and etc. during your research.
