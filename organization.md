@@ -34,9 +34,11 @@ title: Organization
 | Taufik Aliev          | ITMO University | Russia | 
 | Alexey Platunov       | ITMO University | Russia | 
 | Igor Bessmertnyi      | ITMO University | Russia |
+| Artem Smolin          | ITMO University | Russia |
 | Andrey Sheglov        | ITMO University | Russia | 
 | Vladimir Bogatyrev    | ITMO University | Russia |
 | Aleksander Tropchenko | ITMO University | Russia | 
+| Olga Dolinina         | Yuri Gagarin State Technical University of Saratov | Russia |
  
 
 
