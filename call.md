@@ -83,6 +83,8 @@ All deadlines are for the Moscow time zone, 23:59.
 
 The best articles will be selected to publication in Proceedings. The Proceedings will be available in a printed and an online versions.
 
+We are planning to publish the proceedings in CEUR with selectable DBLP, Scopus indexing.
+
 
 [//]: # (The best articles will be selected to publication in CEUR Workshop Proceedings (<http://CEUR-WS.org>{:target="_blank"}). The proceedings are selectively indexed in DBLP (<https://dblp.uni-trier.de/>{:target="_blank"}) and Scopus (<https://www.scopus.com/>{:target="_blank"}).)
 
