@@ -38,6 +38,7 @@ title: Organization
 | Andrey Sheglov        | ITMO University | Russia | 
 | Vladimir Bogatyrev    | ITMO University | Russia |
 | Aleksander Tropchenko | ITMO University | Russia | 
+| Vladimir Polyakov     | ITMO University | Russia | 
 | Olga Dolinina         | Yuri Gagarin State Technical University of Saratov | Russia |
 | Boris Barladian       | Keldysh Institute of Applied Mathematics | Russia |
 | Alexey Voloboy        | Keldysh Institute of Applied Mathematics | Russia |
