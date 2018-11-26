@@ -22,7 +22,7 @@ title: Organization
 | Vladimir Nikolaev    | ITMO University | Russia | 
 | Vladislav Shmatkov   | ITMO University | Russia | 
 
-## Program comitee
+## Program committee
 
 | Name          | Company       | Country |
 | ------------- |:-------------:|---------|
