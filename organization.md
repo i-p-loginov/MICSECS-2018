@@ -42,10 +42,11 @@ title: Organization
 | Olga Dolinina         | Yuri Gagarin State Technical University of Saratov | Russia |
 | Boris Barladian       | Keldysh Institute of Applied Mathematics | Russia |
 | Alexey Voloboy        | Keldysh Institute of Applied Mathematics | Russia |
-| Sergei Kuleshov       | SPIIRAS | Russia |
+| Sergei Kuleshov       | SPIIRAS                | Russia |
 | Jenny Benois-Pineau   | Université de Bordeaux | France |
 | Jürgen Sieck          | Namibia University of Science and Technology | Namibia |
-| Nelson Zagalo         | University of Aveiro | Portugal |
+| Nelson Zagalo         | University of Aveiro   | Portugal |
+| Nikolay Borisov       | SPbU                   | Russia   |
 
  
 
