@@ -47,6 +47,7 @@ title: Organization
 | Nelson Zagalo         | University of Aveiro   | Portugal |
 | Nikolay Borisov       | SPbU                   | Russia   |
 | Sergei Gorlatch       | Universität Münster    | Germany  |
+| Mikhael Galkin        | University of Bonn     | Germany  |
 
  
 
