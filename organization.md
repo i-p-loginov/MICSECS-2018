@@ -46,6 +46,7 @@ title: Organization
 | Jürgen Sieck          | Namibia University of Science and Technology | Namibia |
 | Nelson Zagalo         | University of Aveiro   | Portugal |
 | Nikolay Borisov       | SPbU                   | Russia   |
+| Sergei Gorlatch       | Universität Münster    | Germany  |
 
  
 
