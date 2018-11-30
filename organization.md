@@ -43,11 +43,13 @@ title: Organization
 | Boris Barladian       | Keldysh Institute of Applied Mathematics | Russia |
 | Alexey Voloboy        | Keldysh Institute of Applied Mathematics | Russia |
 | Sergei Kuleshov       | SPIIRAS                | Russia |
-| Jürgen Sieck          | Namibia University of Science and Technology | Namibia |
+| Jürgen Sieck          | University of Applied Sciences | Germany |
 | Nelson Zagalo         | University of Aveiro   | Portugal |
 | Nikolay Borisov       | SPbU                   | Russia   |
 | Sergei Gorlatch       | Universität Münster    | Germany  |
 | Mikhael Galkin        | University of Bonn     | Germany  |
+| Irina Sidorkina       | Volga State University of Technology | Russia | 
+| Tatiana Tatarnikova   | Saint-Petersburg Electrotechnical University | Russia |
 
  
 
