@@ -22,7 +22,7 @@ The conference includes:
 * Key notes presentaion 
 * Oral presentations by participants
 * Poster presentation with Demo
-* Hackathon
+* Hackathon <<[BLACK DAY HACK in ITMO University]({{ site.base_url }}/hackathon.html)>>
 
 Please refer to [Call For Papers]({{ site.base_url }}/call.html) to learn more about the research tracks.
 
