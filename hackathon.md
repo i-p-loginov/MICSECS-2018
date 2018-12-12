@@ -28,7 +28,7 @@ The keynote talk "Self Sovereign Identity: on DIDs and more" will be given by Di
 Hackathon features:
 
 * free participation 
-* the best team will be awarded (money prize) from TSystems. The first place is 100 000 rub, the second is 100 000 rub and the third is 50 000 rub. 
+* the best team will be awarded (money prize) from TSystems. The first place is 200 000 rub, the second is 100 000 rub and the third is 50 000 rub. 
 
 # Team Registration
 
