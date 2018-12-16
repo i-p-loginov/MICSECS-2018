@@ -188,7 +188,7 @@ nav ul {
 
 	h2{
 		font-family: "Schlange Sans Bold", "Open Sans", sans-serif;
-		border-bottom: 2px solid #f76b52;
+		border-bottom: 2px solid #f8826d;
 	}
 
 	h3{
@@ -196,7 +196,7 @@ nav ul {
 		font-style: normal;
 	}
 	a{
-		color: #f76b52;
+		color: #ee6952;
 	}
 	.button{
 		color: #fff;
@@ -560,4 +560,30 @@ article{
 	a.sharer{
 		display: none;
 	}
+}
+
+.prog_tb th {
+	background-color: #4C4B4B;
+	color: white;
+}
+
+.pt_first_col {
+	width: 150px;
+}
+
+.pt_div {
+	background-color: #777;
+	color: white;
+}
+
+.pt_mark1 {
+	background-color: sandybrown;
+}
+
+.pt_mark2 {
+	background-color: #DDD;
+}
+
+.pt_mark3 {
+	background-color: powderblue;
 }

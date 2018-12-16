@@ -10,7 +10,7 @@ To take part in the conference as a listener you need to fill the [**REGISTRATIO
 
 Filling this form you agree to [the personal data processing policy]({{ site.base_url }}/media/micsecs_a.pdf){:target="_blank"}.
 
-## Registration on oral presentation (closed)
+## Registration on Oral presentation (closed)
 
 To apply to the conference **Research Tracks** you need to send the abstract of your oral presentation via [EasyChair](https://easychair.org/conferences/?conf=micsecs2018){:target="_blank"}. Your abstract should conent:
 
