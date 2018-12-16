@@ -7,6 +7,7 @@ title: Program
 The detailed program is available by this link: [**download program**]({{ site.base_url }}/media/MICSECS-2018_program.pdf){:target="_blank"}.
 
 * **Dates of the conference:** 20-21 December, 2018.
+* **Dates of the hackathon:** 21-23 December, 2018.
 * **City:** Saint Petersburg, Russia.
 * **Place:** ITMO University, Kronverkskiy pr., 49.
 * **Rooms:** 285, 365, 371, 372, 375, 466.

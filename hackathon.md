@@ -18,7 +18,7 @@ The **BLACK DAY HACK** is a part of the series of hackathons organized by T-Labs
 * In [Seattle, USA](https://www.universe.com/events/iot-security-blockchain-hackathon-t-labshack-create33-in-seattle-tickets-seattle-JXFQN0){:target="_blank"}
 
 
-The **BLACK DAY HACK** will take place in the **MAIN** building of ITMO University (Kronverksky pr. 49) on 21-23 December. During the hackathon the participants will get the access to hashstax platform via VPN, free Wi-Fi and food. The teams will get all they need to work all day and night to do their best.
+The **BLACK DAY HACK** will take place in the **MAIN** building of ITMO University (Kronverksky pr. 49) on **21-23 December**. During the hackathon the participants will get the access to hashstax platform via VPN, free Wi-Fi and food. The teams will get all they need to work all day and night to do their best.
 
 The participants will be supported by blockchain experts. The specialists from TSystems (Germany) 
 will tell about their experience in the field.
