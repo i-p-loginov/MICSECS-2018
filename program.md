@@ -137,4 +137,5 @@ The detailed program is available by this link: [**download program**]({{ site.b
     </tr>
 </table>
 
-
+* **Full presentatation includes 10 minutes speech with presentation and 5 minutes question section.** 
+* **Short presentatation includes 8 minutes speech with presentation and 2 minutes question section.** 
